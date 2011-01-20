@@ -1,0 +1,25 @@
+body {
+  margin:0;
+  padding:0;
+}
+
+#wrapper {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#board {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2em solid rgb(85,85,85);
+}
+
+#clock {
+  margin-top: 5em;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
